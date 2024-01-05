@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #9a9af7;
+    color: #080d11;
+    font-family: Tahoma;
+    font-size: 16px;
+    text-align: center;
+  }
+  .grid-container {
+    display: grid;
+   
+    gap: 10px;
+    background-color: #80c0f4;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(254, 173, 173, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+  }
+
+  
+  
+  .fieldset {
+    border: 0;
+    padding: 2rem, 0;
+  }
+  label {
+    display: inline-block;
+    margin: 0.5rem 0;
+    
+  }
