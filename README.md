@@ -1,6 +1,7 @@
 # myinternshipproject
+REGISTRATION FORM
 A Dynamic and user-friendly registration form using html and css 
-project objective:user interaction design and HTML/CSS integration
+Project objective:user interaction design and HTML/CSS integration
 Requirement and Feature:
 -->username feild
 -->email feild
